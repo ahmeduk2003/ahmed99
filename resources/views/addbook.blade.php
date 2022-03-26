@@ -6,7 +6,7 @@
 <input type="text" name="Des" placeholder="enter the Des">  <br>  <br>
 <input type="submit">
 </form>
-
+<style>
 
 <table>
          <tr>
